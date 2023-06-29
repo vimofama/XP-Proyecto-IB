@@ -2,27 +2,27 @@
 
 ## Planning
 
-* Historias de Usuario / Tarjetas de tareas. (falta una historia para la segunda iteración)
-* Release Plan : Define la secuencia y el alcance de las entregas en el proyecto. (falta)
-* Plan de iteración : Detalla las historias de usuario y las tareas que se abordarán en cada iteración. (mejorar)
+* Historias de Usuario / Tarjetas de tareas.
+* Release Plan : Define la secuencia y el alcance de las entregas en el proyecto.
+* Plan de iteración : Detalla las historias de usuario y las tareas que se abordarán en cada iteración
 
 ## Designing
 
-* Tarjeta CRC (utilizar cada tarjeta para cada iteración o crear una nueva tarjeta)
-* Prototipo : Ilustra la estructura y el diseño de la interfaz de usuario. (falta)
-* Diagrama conceptual (revisar)
+* Tarjeta CRC
+* Prototipo : Ilustra la estructura y el diseño de la interfaz de usuario.
+* Diagrama conceptual
 
 ## Coding
 
-* Estándares de Programación (listo)
-* Programación (falta loop)
+* Estándares de Programación
+* Programación
 * Refactorización
 
 ## Testing
 
-* Pruebas unitarias (existen pruebas de traduccion, talvez agregar una prueba del loop?)
-* Pruebas funcionales (falta)
-* Criterios de aceptación (listo)
+* Pruebas unitarias
+* Pruebas funcionales
+* Criterios de aceptación
 
 
-Manual de Usuario (listo)
+Manual de Usuario

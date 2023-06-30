@@ -2,6 +2,10 @@
 
 ## Iteración 1
 
+En esta iteración el resultado será un programa funcional por consola que traduzca numeros a su respectivo valor textual en kichwa.
+
+### Artefactos
+
 - Historias de usuario.
 - Documento de vision.
 - Organización del equipo.
@@ -20,13 +24,13 @@
 
 ### Tiempo:
 
-3 dias
-
-### Seguimiento
-
-[Referencia al archivo]
+2 dias
 
 ## Iteración 2
+
+En esta iteración el resultado será un programa funcional por consola que traduzca numeros a su respectivo valor textual en kicwa y ademas permita al usuario iteractuar con el programa hasta cuando él lo decida.
+
+### Artefactos
 
 - Programación de la segunda historia de usuario.
 - Criterio de pruebas unitarias.
@@ -40,7 +44,3 @@
 ### Tiempo:
 
 2 dias
-
-### Seguimiento
-
-[Referencia al archivo]

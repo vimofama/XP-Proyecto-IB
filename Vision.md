@@ -26,6 +26,8 @@ En el ámbito educativo y cultural se busca ser inclusivos con las distintos pue
 
 - El sistema debe validar que el numero ingresado esté entre 0 y 9999.
 
+- El sistema debe retornar el valor textual en kichwa del numero ingresado
+
 ### No funcionales
 
 - El sistema debera mostrar un menu, en el cual el usuario pueda elegir entre continuar traduciendo numeros o cerrar el programa.

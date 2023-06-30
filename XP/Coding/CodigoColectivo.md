@@ -16,3 +16,15 @@ Enlace al [repositorio](https://github.com/leoandy23/TraductorKichwa)
 ## RAMA DEVELOP
 
 - Rama de desarrollo
+
+## PRIMERA ITERACION
+
+![Primera iteracion](./Image/PrimeraIteracion.png)
+
+## SEGUNDA ITERACION
+
+![Segunda Iteración](./Image/SegundaIteracion.jpg)
+
+## Estadisticas GitHub
+
+![Estadísticas Github](./Image/EstadisticaGithub.png)

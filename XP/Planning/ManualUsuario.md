@@ -75,6 +75,6 @@ El Convertidor de Números a Kichwa ofrece las siguientes funcionalidades:
 
 ## 10. Contacto y Soporte
 
-- Para cualquier consulta, problema o sugerencia relacionada con la aplicación, puede ponerse en contacto con nuestro equipo de soporte a través del correo electrónico techtitans6soporte@hotmail.com
+- Para cualquier consulta, problema o sugerencia relacionada con la aplicación, puede ponerse en contacto con nuestro equipo de soporte a través del correo electrónico backyardigans@epn.com
 
 ¡Disfrute utilizando el Convertidor de Números a Kichwa y experimente con la riqueza del idioma kichwa en la representación de números!
